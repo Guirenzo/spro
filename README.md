@@ -1,2 +1,2 @@
-# spro
+# SPRO
 Sistema de estoque
